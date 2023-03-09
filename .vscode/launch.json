@@ -25,7 +25,6 @@
 			"args": [
 				"--extensionDevelopmentPath=${workspaceFolder}",
 				"--disable-extensions",
-				"--enable-proposed-api=lMagickl.open-doc-in-web,steoates.autoimport"
 			],
 			"env": {
 				"VSCODE_LOG_LEVEL": "trace",
